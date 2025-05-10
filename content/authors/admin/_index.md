@@ -27,16 +27,16 @@ interests:
 - Computational Linguistics
 - Multi Modality
 
-education:
- courses:
- - course: MS in Computer Science (Natural Language Processing)
-   institution: University of California, Santa Cruz
-   location: California, US
-   year: 2023
- - course: BS in Information Management
-   institution: National University of Kaohsiung
-   location: Kaohsiung, Taiwan
-   year: 2018
+# education:
+#  courses:
+#  - course: MS in Computer Science (Natural Language Processing)
+#    institution: University of California, Santa Cruz
+#    location: California, US
+#    year: 2023
+#  - course: BS in Information Management
+#    institution: National University of Kaohsiung
+#    location: Kaohsiung, Taiwan
+#    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -54,7 +54,7 @@ social:
     link: https://www.linkedin.com/in/cheng-tse-liu-99b21b259/
   - icon: google-scholar
     icon_pack: fab
-    link: https://github.com/alexliu0121
+    link: https://scholar.google.com/citations?hl=zh-TW&user=LVO3qpwAAAAJ
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab

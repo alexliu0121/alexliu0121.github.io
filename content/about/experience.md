@@ -26,7 +26,7 @@ experience:
     company: UCSC
     company_url: ''
     company_logo: custom/UCSC
-    location: California
+    location: Santa Clara, California
     date_start: '2025-02-01'
     date_end: ''
     description: |2-
@@ -41,7 +41,7 @@ experience:
     company: Adobe
     company_url: ''
     company_logo: custom/adobe
-    location: California
+    location: Santa Clara, California
     date_start: '2024-03-01'
     date_end: '2024-12-31'
     description: |2-

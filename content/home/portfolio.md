@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning/Natural Language Processing
+    - name: ML/NLP
       tag: ML
     - name: APP
       tag: APP
-    - name: Object-Oriented Programming
+    - name: OOP
       tag: OOP
 
 design:
