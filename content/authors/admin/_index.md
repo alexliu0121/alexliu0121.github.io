@@ -38,6 +38,26 @@ interests:
 #    location: Kaohsiung, Taiwan
 #    year: 2018
 
+skills:
+- Python
+- Java
+- C
+- Pytorch
+- Keras
+- Tensorflow
+- Scikit-learn
+- Regression/Classification
+- NumPy
+- Pandas
+- RAG
+- LangChain
+- Microsoft Azure 
+- MySQL
+- FireBase
+- HTML/CSS
+- PHP
+- Flutter
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
