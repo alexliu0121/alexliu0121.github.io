@@ -34,7 +34,7 @@ experience:
   - title: BS Information Management
     company: National University of Kaohsiung
     company_url: ''
-    company_logo: hero/academic-cap
+    company_logo: icon:hero/academic-cap
     location: Taiwan
     date_start: '2018-09-01'
     date_end: '2022-06-01'

@@ -55,7 +55,7 @@ experience:
   - title: Research Assistant
     company: Computational Biology & Intelligence System Lab
     company_url: ''
-    company_logo: hero/academic-cap
+    company_logo: icon:hero/academic-cap
     location: Taiwan
     date_start: '2021-01-01'
     date_end: '2022-01-01'
