@@ -29,7 +29,7 @@ experience:
     location: California
     date_start: '2023-09-01'
     date_end: '2024-12-31'
-    description: GPA: 3.9/4.0
+    description: 'GPA: 3.9/4.0'
 
   - title: BS Information Management
     company: National University of Kaohsiung
@@ -38,7 +38,7 @@ experience:
     location: Taiwan
     date_start: '2018-09-01'
     date_end: '2022-06-01'
-    description: GPA: 3.52/4.0, Last 60 credits: 3.8/4.0 
+    description: 'GPA: 3.52/4.0, Last 60 credits: 3.8/4.0'
 
 design:
   columns: '1'
