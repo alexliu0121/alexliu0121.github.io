@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Alex CT Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Data Scientist/ML Engineer'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😄
 
 # Organizations/Affiliations
 #organizations:
@@ -18,24 +18,25 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a passionate Machine Learning and Natural Language Processing (NLP) Engineer. With a strong academic foundation and hands-on experience in cutting-edge technologies, I specialize in leveraging advanced AI techniques to solve real-world challenges. I recently completed my Master of Science in Natural Language Processing (Computer Science) at UC Santa Cruz, where I focus on applying state-of-the-art models to create impactful solutions.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Machine Learning
+- Natural Language Processing
+- Data Science
+- Computational Linguistics
+- Multi Modality
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+ courses:
+ - course: MS in Computer Science (Natural Language Processing)
+   institution: University of California, Santa Cruz
+   location: California, US
+   year: 2023
+ - course: BS in Information Management
+   institution: National University of Kaohsiung
+   location: Kaohsiung, Taiwan
+   year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,13 +45,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:cliu282@ucsc.edu' # For a direct email link, use "mailto:test@example.org".
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://github.com/alexliu0121
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/cheng-tse-liu-99b21b259/
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://github.com/alexliu0121
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -58,16 +62,14 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/Cheng-Tse_Liu_Resume_7.5.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Alex Cheng-Tse Liu, a Machine Learning Engineer passionate about natural language processing and AI applications. I recently earned my Master’s in NLP from UC Santa Cruz and interned at Adobe, where I developed multi-agent pipelines for summarizing long documents with state-of-the-art LLMs like GPT-4o and Claude. Previously, I conducted research on biomedical NLP at the National University of Kaohsiung, and I’ve led multiple full-stack and NLP projects bridging research and real-world impact. I'm driven by solving complex problems with data and building intelligent systems that make a difference.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Cheng-Tse_Liu_Resume_7.5.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
