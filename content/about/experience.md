@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: NLP Software Developer
     company: UCSC
-    company_url: ''
+    company_url: 'https://www.ucsc.edu/'
     company_logo: custom/UCSC
     location: Santa Clara, California
     date_start: '2025-02-01'
@@ -39,7 +39,7 @@ experience:
 
   - title: Machine Learning Engineer Intern
     company: Adobe
-    company_url: ''
+    company_url: 'https://www.adobe.com/'
     company_logo: custom/adobe
     location: Santa Clara, California
     date_start: '2024-03-01'
@@ -54,7 +54,7 @@ experience:
 
   - title: Research Assistant
     company: Computational Biology & Intelligence System Lab
-    company_url: ''
+    company_url: 'https://cobis.bme.ncku.edu.tw/thyang/Main' 
     company_logo: custom/academic-cap
     location: Taiwan
     date_start: '2021-01-01'

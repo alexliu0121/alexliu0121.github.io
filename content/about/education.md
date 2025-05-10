@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: MSc in Computer Science (Natural Language Processing)
     company: University of California, Santa Cruz
-    company_url: ''
+    company_url: 'https://www.ucsc.edu/'
     company_logo: custom/UCSC
     location: Santa Cruz, California
     date_start: '2023-09-01'
@@ -33,7 +33,7 @@ experience:
 
   - title: BSc in Information Management
     company: National University of Kaohsiung
-    company_url: ''
+    company_url: 'https://www.nuk.edu.tw/'
     company_logo: custom/academic-cap
     location: Kaohsiung, Taiwan
     date_start: '2018-09-01'
