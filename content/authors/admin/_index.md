@@ -82,12 +82,12 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: files/Cheng-Tse_Liu_Resume_7.5.pdf
-  - button:
-        text: Download Résumé
-        url: files/Cheng-Tse_Liu_Resume_7.5.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/Cheng-Tse_Liu_Resume_7.5.pdf
+  # - button:
+  #       text: Download Résumé
+  #       url: files/Cheng-Tse_Liu_Resume_7.5.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -95,4 +95,5 @@ social:
 
 Hi, I'm Alex Cheng-Tse Liu, a Machine Learning Engineer passionate about natural language processing and AI applications. I recently earned my Master’s in NLP from UC Santa Cruz and interned at Adobe, where I developed multi-agent pipelines for summarizing long documents with state-of-the-art LLMs like GPT-4o and Claude. Previously, I conducted research on biomedical NLP at the National University of Kaohsiung, and I’ve led multiple full-stack and NLP projects bridging research and real-world impact. I'm driven by solving complex problems with data and building intelligent systems that make a difference.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Cheng-Tse_Liu_Resume_7.5.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Cheng-Tse_Liu_Resume_7.5.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Cheng-Tse_Liu_Resume_7.5.pdf" "newtab" >}}View my resumé in a PDF.{{< /staticref >}}
