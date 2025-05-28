@@ -47,10 +47,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * In the team of Efficient Summarization of Very Long Documents using Large Language Models 
-        * Developed a multi-agent pipeline for efficiently summarizing long documents using state-of-the-art LLMs 
-        * Developed algorithms for text segmentation and pipeline construction 
-        * Deployed and evaluated LLMs including GPT-4o, Llama3, Claude, Gemini and Mistral 
+        * Collaborated with researchers to design evaluation protocols and analysis workflows for LLM-based summarization
+        * Developed algorithms for text segmentation and conducted prompt optimization across diverse model configurations 
+        * Investigated cost-efficiency trade-offs between centralized and decentralized multi-agent strategies 
+        * Contributed to internal research presentations and an conference paper submission
 
   - title: Research Assistant
     company: Computational Biology & Intelligence System Lab

@@ -1,8 +1,8 @@
 ---
-title: Mahjong
-summary: This project is a Java-based implementation of the traditional Taiwanese game "Mahjong," developed using object-oriented programming (OOP) principles.
+title: Retrieval-Augmented-Question-Answering-System
+summary: This is a personal side project where I explored building a Retrieval Augmented Generation (RAG) system to answer questions accurately using natural language processing.
 tags:
-  - OOP
-date: 2020-10-1
-external_link: https://github.com/alexliu0121/Mahjong
+  - ML
+date: 2024-03-01
+external_link: https://github.com/alexliu0121/Retrieval-Augmented-Question-Answering-System
 ---

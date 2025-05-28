@@ -1,8 +1,8 @@
 ---
-title: Multi-LLM-Summarization-of-Very-Long-Documents
-summary: This project is a research project collaborated with Adobe Rearch team that we explored the potential of multimodality applied on summarization task with decentralized and centralized methods.
+title: Recardmend
+summary: Considering the fact that people holding multiple credit cards can‘t absorb such a large amount of credit card reward in a short period of time, we have developed a system that recommends credit card reward according to the needs of users.
 tags:
-  - ML
-date: 2024-3-1
-external_link: https://arxiv.org/abs/2412.15487
+  - APP
+date: 2021-12-1
+external_link: https://github.com/alexliu0121/Recardmend
 ---
