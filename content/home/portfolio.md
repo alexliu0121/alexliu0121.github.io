@@ -1,4 +1,4 @@
-<!-- ---
+---
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
 # See https://docs.hugoblox.com/widget/portfolio/
@@ -41,4 +41,4 @@ design:
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
---- -->
+---
