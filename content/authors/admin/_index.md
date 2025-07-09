@@ -96,4 +96,4 @@ social:
 Hi, I'm Alex Cheng-Tse Liu, a Machine Learning Engineer passionate about natural language processing and AI applications. I recently earned my Master’s in NLP from UC Santa Cruz and interned at Adobe, where I developed multi-agent pipelines for summarizing long documents with state-of-the-art LLMs like GPT-4o and Claude. Previously, I conducted research on biomedical NLP at the National University of Kaohsiung, and I’ve led multiple full-stack and NLP projects bridging research and real-world impact. I'm driven by solving complex problems with data and building intelligent systems that make a difference.
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Cheng-Tse_Liu_Resume_8.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Cheng-Tse_Liu_Resume_8.pdf" "newtab" >}}View my resumé in a PDF.{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Cheng-Tse_Liu_Resume_9.pdf" "newtab" >}}View my resumé in a PDF.{{< /staticref >}}
