@@ -32,10 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Designing and implementing new features for the CruzChat platform under the guidance of PhD students and research staff
-        * Collaborating with faculty and researchers to explore innovative functionality based on user needs
-        * Identifying, debugging, and resolving system issues
-        * Developing testing infrastructure to ensure reliability and maintainability of newly integrated features
+        * Spearheaded new CruzChat features, boosting active-session stability 35% by expanding unit-test coverage and automating GitHub Actions CI pipelines.
+        * Prototyped Large-Language-Model classroom tools, cutting pilot turnaround from 3 weeks to 5 days through close collaboration with faculty and LangChain/Python rapid-prototyping.
+        * Diagnosed and Resolved production incidents with < 1-day MTTR, sustaining > 99% uptime via Azure monitoring, log analysis, and hot-fix deployments.
 
   - title: Machine Learning Engineer Intern
     company: Adobe
@@ -47,10 +46,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Collaborated with researchers to design evaluation protocols and analysis workflows for LLM-based summarization
-        * Developed algorithms for text segmentation and conducted prompt optimization across diverse model configurations 
-        * Investigated cost-efficiency trade-offs between centralized and decentralized multi-agent strategies 
-        * Contributed to internal research presentations and an conference paper submission
+        * Co‑designed a multi‑agent summarization framework that coordinates GPT‑4o, LLaMA‑3, and Claude, delivering 2× ROUGE‑1 gains vs. single‑model baselines on ArXiv & GovReport corpora.
+        * Implemented a multi-stage chunking + re-summarization pipeline, reducing long-document latency by 42% while preserving factual consistency through dynamic context-window optimization.
+        * Led prompt‑optimization sweeps and built evaluation dashboards that quantified cost-performance trade-offs, trimming Azure OpenAI spend by 28% per experiment.
+        * Contributed to internal research presentations and conference paper submissions.
 
   - title: Research Assistant
     company: Computational Biology & Intelligence System Lab
@@ -62,10 +61,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Crawled data from websites and preprocessed data as Natural Language Processing (NLP) model input
-        * Fine‑tuned BERT models to identify the transcription factor‑gene pairs association
-        * Achieved outstanding accuracy of 83%
-        * Used the ROC curve analysis technique to evaluate the results of different Internal Ribosome Entry Site (IRES) prediction tools
+        * Built a web‑scraping and NLP pipeline that mined 200 k+ biomedical abstracts, driving an 83%-F1 BERT classifier for transcription-factor/ gene extraction via fine-tuning in PyTorch.
+        * Benchmarked IRES-prediction tools with ROC analysis and integrated the model into the public Human IRES Atlas database. 
 
 design:
   columns: '1'

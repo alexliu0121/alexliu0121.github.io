@@ -84,7 +84,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/Cheng-Tse_Liu_Resume_8.pdf
+    link: files/Cheng-Tse_Liu_Resume_9.pdf
   # - button:
   #       text: Download Résumé
   #       url: files/Cheng-Tse_Liu_Resume_8.pdf
